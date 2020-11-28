@@ -52,8 +52,13 @@ client = commands.Bot(command_prefix=prefix)
 
 # Load all the extensions mentioned in
 for extension in extensions:
-    client.load_extension(extension)
-
+    try:
+        client.load_extension(extension)
+        print(f"『LOADED』『✓』 {extension.split('.')[-1]} LOADED FROM {extension}")
+    except Exception:
+        print(f"『FAILED』『×』 {extension.split('.')[-1]} COULD NOT BE LOADED FROM {extension}")
+        print(f"『ERROR』")
+        print(Exception)
 
 # Run the bot
 client.run(token)
