@@ -25,7 +25,8 @@ class InitListener(commands.Cog):
     async def on_ready(self):
         # Change the bot status to what we mention above
         await self.client.change_presence(activity=activity, status=status)
-        print("Bot is online")
+        print("『BOT』『✓』 LOGGED IN AS " + str(self.client.user))
+        print(f"『{str(self.client.user)}』『✓』IS ONLINE!")
 
 
 # Function for discord.py to load this extension
