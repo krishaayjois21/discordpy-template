@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "prefix": ".",
+    "token": "<token>",
+    "prefix": "<prefix>",
     "extensions": [
         "extensions.ready"
     ]
