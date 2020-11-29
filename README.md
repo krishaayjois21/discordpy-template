@@ -3,7 +3,7 @@
 [![HEROKUDEPLOY](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/krishaayjois21/discordpy-template)
 [![PYTHON](https://img.shields.io/static/v1?label=PYTHON&message=3&color=1F4360&style=for-the-badge&logo=python)](https://python.org)
 [![CODESTYLE](https://img.shields.io/static/v1?label=CODESTYLE&message=BLACK&color=000000&style=for-the-badge)](https://python.org)
-[![LICENSE](https://img.shields.io/github/license/krishaayjois21/discordpy-template?style=for-the-badge)](https://github.com/krishaayjois21/discordpy-template/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT)](https://github.com/krishaayjois21/discordpy-template/blob/main/LICENSE)
 [![STARS](https://img.shields.io/github/stars/krishaayjois21/discordpy-template?style=for-the-badge)](https://github.com/krishaayjois21/discordpy-template/stargazers)
 [![ISSUES](https://img.shields.io/github/issues/krishaayjois21/discordpy-template?style=for-the-badge)](https://github.com/krishaayjois21/discordpy-template/issues)
 [![FORKS](https://img.shields.io/github/forks/krishaayjois21/discordpy-template?style=for-the-badge)]()
