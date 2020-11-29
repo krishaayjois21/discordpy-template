@@ -1,3 +1,6 @@
 {
-    
+    "name": "discord.py template",
+    "description": "A starter for a discrd.py bot with cogs",
+    "repository": "https://github.com/krishaayjois21/discordpy-template",
+    "keywords": ["bot" , "discord" , "discord.py" , "automation"]
 }
