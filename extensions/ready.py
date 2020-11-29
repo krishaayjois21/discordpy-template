@@ -24,7 +24,7 @@ class InitListener(commands.Cog):
     @commands.Cog.listener()
     async def on_ready(self):
         # Change the bot status to what we mention above
-        await self.client.change_presence(activity=activity, status=status)
+        await self.client.change_presence(activity=act, status=status)
         print("『BOT』『✓』 LOGGED IN AS " + str(self.client.user))
         print(f"『{str(self.client.user)}』『✓』IS ONLINE!")
 
